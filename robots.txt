@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://badri.github.io/sitemap.xml 
